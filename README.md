@@ -8,7 +8,7 @@ Android Application for Saving Profile Images of K-Talk
   <img src="https://img.shields.io/badge/Play Store-1.1.2-lightgray">
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.pleiades.pleione.profileadvanced">
-  <img src="https://img.shields.io/badge/Downloads-0.59k++-red">
+  <img src="https://img.shields.io/badge/Downloads-0.5k++-red">
 </a>
 <br><br>
 
